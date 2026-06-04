@@ -1,0 +1,31 @@
+body {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
+
+.back-link {
+    color: #800080;
+}
+
+.red-text {
+    color: #ff0000;
+    font-style: normal;
+}
+
+.bold-text {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.colored-list .item-purple { color: #8a2be2; }
+.colored-list .item-blue   { color: #0000ff; }
+.colored-list .item-red    { color: #ff0000; }
+.colored-list .item-green  { color: #008000; }
+
+.dynamic-sizes .w1 { font-size: 16px; }
+.dynamic-sizes .w2 { font-size: 22px; }
+.dynamic-sizes .w3 { font-size: 28px; }
+.dynamic-sizes .w4 { font-size: 46px; font-weight: bold; }
+.dynamic-sizes .w5 { font-size: 36px; }
+.dynamic-sizes .w6 { font-size: 20px; }
+.dynamic-sizes .w7 { font-size: 14px; }
